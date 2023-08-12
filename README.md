@@ -1,21 +1,21 @@
 # Hi there, I'm Nishan Budhathoki 👋
 
-Welcome to my corner of the coding universe! I'm a passionate JavaScript developer on a journey to create meaningful and innovative applications using the power of technology. My areas of expertise include the MERN stack for web development and harnessing the capabilities of Raspberry Pi for IoT projects.
+Welcome to my corner of the coding universe! I'm a passionate JavaScript developer with a penchant for crafting elegant and user-centric web solutions. I'm currently on an exciting journey of mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm also well-versed in leveraging CSS frameworks like Bootstrap, Tailwind CSS, and Sass to create stunning and responsive designs.
 
-## 🚀 About Me
+## 🚀 What I'm Up To
 
-- 💻 JavaScript enthusiast with a strong foundation in web technologies.
-- 🌐 Love building interactive and user-centric web applications.
-- 🌱 Currently exploring the world of MERN (MongoDB, Express, React, Node.js) stack.
-- 🤖 Passionate about IoT and how Raspberry Pi can bring the digital and physical worlds together.
+- 🌱 Currently diving deep into the MERN stack to build robust and modern web applications.
+- 🔥 Continuously expanding my coding horizons by learning and experimenting with new technologies.
+- 🎨 Crafting delightful user experiences through effective use of CSS frameworks and methodologies.
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- **Frontend Development:** Experienced in crafting dynamic and interactive user interfaces using React. Familiar with React ecosystem as well as NextJS.
-
-- **Backend Development:** Proficient in designing and implementing backend services using NodeJS and ExpressJS. Skilled in creating RESTful APIs and integrating them with SQL & NoSQL databases.
-
-- **IoT with Raspberry Pi:** Experienced in utilizing Raspberry Pi for exciting IoT projects. Proficient in connecting sensors, capturing and analyzing data, and creating meaningful applications for real-world scenarios.
+- **JavaScript Enthusiast:** Proficient in modern JavaScript and its various frameworks and libraries.
+- **MERN Stack:** Exploring the world of MongoDB, Express, React, and Node.js for full-stack web development. Also familiar with SQL databases.
+- **Frontend Magic:** Skilled in using React with NextJS to create dynamic and interactive user interfaces.
+- **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
+- **Version Control:** Proficient in Git for efficient collaboration and code management.
+- **Problem Solver:** Passionate about tackling coding challenges and finding innovative solutions.
 
 ## 📬 Let's Connect
 
