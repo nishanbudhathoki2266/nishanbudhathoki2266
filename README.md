@@ -51,6 +51,7 @@ const me = {
     linkedIn: "https://www.linkedin.com/in/nishan-budhathoki-58a092287/",
     instagram: "https://www.instagram.com/nishan__budhathoki/",
     facebook: "https://www.facebook.com/nissan.xetrii/",
+    email: "nishanbudhathoki2266@gmail.com",
   },
 };
 ```
