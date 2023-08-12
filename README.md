@@ -41,7 +41,7 @@ const me = {
   pronouns: "developer/he-him",
   skills: {
     languages: ["JavaScript", "HTML", "CSS", "Python"],
-    frontend: ["ReactJS", "NextJS"],
+    frontend: ["ReactJS", "NextJS", "BootStrap", "Tailwind CSS", "Sass"],
     backend: ["NodeJS", "Express"],
     databases: ["SQL", "NoSQL"],
     iot: ["Raspberry Pi"],
