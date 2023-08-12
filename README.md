@@ -27,7 +27,7 @@ I'm always excited to connect with fellow developers, enthusiasts, and learners.
 
 📘 [Facebook](https://www.facebook.com/nissan.xetrii/)
 
-✉ [nishanbudhathoki2266@gmail.com]
+✉ **nishanbudhathoki2266@gmail.com**
 
 Looking forward to engaging conversations and meaningful collaborations! 👩‍💻
 
