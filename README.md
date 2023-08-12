@@ -1,6 +1,6 @@
 # Hi there, I'm Nishan Budhathoki 👋
 
-Welcome to my corner of the coding universe! I'm a passionate JavaScript developer with a penchant for crafting elegant and user-centric web solutions. I'm currently on an exciting journey of mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm also well-versed in leveraging CSS frameworks like Bootstrap, Tailwind CSS, and Sass to create stunning and responsive designs.
+Welcome to my corner of the coding universe! I'm a passionate JavaScript developer with a strong passion for crafting elegant and user-centric web solutions. I'm currently on an exciting journey of mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm also well-versed in leveraging CSS frameworks to create stunning and responsive designs.
 
 ## 🚀 What I'm Up To
 
