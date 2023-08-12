@@ -21,11 +21,11 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 
 I'm always excited to connect with fellow developers, enthusiasts, and learners. If you want to discuss web development, share insights about IoT, or collaborate on interesting projects, feel free to reach out to me.
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nishan-budhathoki-58a092287/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nishan-budhathoki-58a092287/)
 
-📷 Connect with me on [Instagram](https://www.instagram.com/nishan__budhathoki/)
+📷 [Instagram](https://www.instagram.com/nishan__budhathoki/)
 
-📘 Connect with me on [Facebook](https://www.facebook.com/nissan.xetrii/)
+📘 [Facebook](https://www.facebook.com/nissan.xetrii/)
 
 Looking forward to engaging conversations and meaningful collaborations! 👩‍💻
 
