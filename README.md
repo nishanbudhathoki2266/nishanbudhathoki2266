@@ -19,7 +19,7 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 
 ## 📬 Let's Connect
 
-I'm always excited to connect with fellow developers, enthusiasts, and learners. If you want to discuss web development, share insights about IoT, or collaborate on interesting projects, feel free to reach out to me.
+I'm always excited to connect with fellow developers, enthusiasts, and learners. Feel free to reach out to me.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nishan-budhathoki-58a092287/)
 
@@ -28,8 +28,6 @@ I'm always excited to connect with fellow developers, enthusiasts, and learners.
 📘 [Facebook](https://www.facebook.com/nissan.xetrii/)
 
 ✉ **nishanbudhathoki2266@gmail.com**
-
-Looking forward to engaging conversations and meaningful collaborations! 👩‍💻
 
 ## 🐵 Boring details ? Here's a summary of myself as an object
 
