@@ -15,7 +15,6 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 - **Frontend Magic:** Skilled in using React with NextJS to create dynamic and interactive user interfaces.
 - **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
 - **Version Control:** Proficient in Git for efficient collaboration and code management.
-- **Problem Solver:** Passionate about tackling coding challenges and finding innovative solutions.
 
 ## 📬 Let's Connect
 
