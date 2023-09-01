@@ -16,20 +16,6 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 - **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
 - **Version Control:** Proficient in Git for efficient collaboration and code management.
 
-## 📬 Let's Connect
-
-I'm always excited to connect with fellow developers, enthusiasts, and learners. Feel free to reach out to me.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/nishan-budhathoki-58a092287/)
-
-📷 [Instagram](https://www.instagram.com/nishan__budhathoki/)
-
-📘 [Facebook](https://www.facebook.com/nissan.xetrii/)
-
-✉ **nishanbudhathoki2266@gmail.com**
-
-## 🐵 Boring details ? Here's a summary of myself as an object
-
 ```javascript
 const me = {
   name: "Nishan Budhathoki",
