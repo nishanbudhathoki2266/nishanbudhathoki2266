@@ -16,6 +16,8 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 - **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
 - **Version Control:** Proficient in Git for efficient collaboration and code management.
 
+![](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=green&style=flat-square)
+
 ```javascript
 const me = {
   name: "Nishan Budhathoki",
