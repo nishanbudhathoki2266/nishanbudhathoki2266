@@ -1,16 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=green&style=flat-square)
 
-# Hi there, I'm Nishan Budhathoki 👋
+# Hi there, Welcome to my corner of the coding universe! 👋
+👦 I'm Nishan Budhathoki, a passionate JavaScript developer with a strong passion for crafting elegant and user-centric web solutions.
 
-Welcome to my corner of the coding universe! I'm a passionate JavaScript developer with a strong passion for crafting elegant and user-centric web solutions. I'm currently on an exciting journey of mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm also well-versed in leveraging CSS frameworks to create stunning and responsive designs.
-
-## 🚀 What I'm Up To
-
-- 🌱 Currently diving deep into the MERN stack to build robust and modern web applications.
-- 🔥 Continuously expanding my coding horizons by learning and experimenting with new technologies.
-- 🎨 Crafting delightful user experiences through effective use of CSS frameworks and methodologies.
-
-## 🛠️ Skills & Tools
+## ⚔ Weapons I am loaded with
 
 - **JavaScript Enthusiast:** Proficient in modern JavaScript and its various frameworks and libraries.
 - **MERN Stack:** Exploring the world of MongoDB, Express, React, and Node.js for full-stack web development. Also familiar with SQL databases.
@@ -18,7 +11,7 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 - **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
 - **Version Control:** Proficient in Git for efficient collaboration and code management.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nishanbudhathoki2266&show_icons=true)
+Boring details ? Here's myself as an object 😉:
 
 ```javascript
 const me = {
