@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=green&style=flat-square)
+
 # Hi there, I'm Nishan Budhathoki 👋
 
 Welcome to my corner of the coding universe! I'm a passionate JavaScript developer with a strong passion for crafting elegant and user-centric web solutions. I'm currently on an exciting journey of mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm also well-versed in leveraging CSS frameworks to create stunning and responsive designs.
@@ -15,8 +17,6 @@ Welcome to my corner of the coding universe! I'm a passionate JavaScript develop
 - **Frontend Magic:** Skilled in using React with NextJS to create dynamic and interactive user interfaces.
 - **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
 - **Version Control:** Proficient in Git for efficient collaboration and code management.
-
-![](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=green&style=flat-square)
 
 ```javascript
 const me = {
