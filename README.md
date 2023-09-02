@@ -1,15 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=green&style=flat-square)
 
-# Hi there, Welcome to my corner of the coding universe! 👋
-👦 I'm Nishan Budhathoki, a passionate JavaScript developer with a strong passion for crafting elegant and user-centric web solutions.
+# Hi, I'm Nishan Budhathoki 👋
+
+Passionate JavaScript Developer | MERN Stack Enthusiast | IoT Geek
+
+Welcome to my corner of the coding universe! Here, you'll find a collection of my projects and contributions. Feel free to explore and connect with me on my coding journey.
 
 ## ⚔ Weapons I am loaded with
 
-- **JavaScript Enthusiast:** Proficient in modern JavaScript and its various frameworks and libraries.
-- **MERN Stack:** Exploring the world of MongoDB, Express, React, and Node.js for full-stack web development. Also familiar with SQL databases.
-- **Frontend Magic:** Skilled in using React with NextJS to create dynamic and interactive user interfaces.
-- **CSS Artistry:** Experienced in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
-- **Version Control:** Proficient in Git for efficient collaboration and code management.
+- 💻 Expertise in JavaScript, Next.js, and the MERN stack
+- 📦 Experience with SQL and NoSQL databases
+- 🎨 Efficiency in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS.
+- 🌐 Proficiency in building IoT projects with Raspberry Pi
+- 🤖 Version controlling with Git
 
 Boring details ? Here's myself as an object 😉:
 
