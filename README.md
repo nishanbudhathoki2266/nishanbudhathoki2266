@@ -14,6 +14,8 @@ Welcome to my corner of the coding universe! Here, you'll find a collection of m
 - 🌐 Proficiency in building IoT projects with Raspberry Pi
 - 🤖 Version controlling with Git
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbudhathoki2266)](https://github.com/nishanbudhathoki2266/github-readme-stats)
+
 Boring details ? Here's myself as an object 😉:
 
 ```javascript
