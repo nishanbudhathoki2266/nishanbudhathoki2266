@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=green&style=flat-square)
-
 # Hi, I'm Nishan Budhathoki 👋
 
 Passionate JavaScript Developer | MERN Stack Enthusiast | IoT Geek
