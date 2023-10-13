@@ -1,6 +1,6 @@
 # Hi, I'm Nishan Budhathoki 👋
 
-Passionate JavaScript Developer | MERN Stack Enthusiast | IoT Geek
+Passionate MERN Developer | IoT Geek
 
 Welcome to my corner of the coding universe! Here, you'll find a collection of my projects and contributions. Feel free to explore and connect with me on my coding journey.
 
