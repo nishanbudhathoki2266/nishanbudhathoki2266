@@ -4,6 +4,8 @@ Passionate MERN Developer | IoT Geek
 
 Welcome to my corner of the coding universe! Here, you'll find a collection of my projects and contributions. Feel free to explore and connect with me on my coding journey.
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ## ⚔ Weapons I am loaded with
 
 - 💻 Expertise in JavaScript, Next.js, and the MERN stack
@@ -12,7 +14,7 @@ Welcome to my corner of the coding universe! Here, you'll find a collection of m
 - 🌐 Proficiency in building IoT projects with Raspberry Pi
 - 🤖 Version controlling with Git
 
-Boring details ? Here's myself as an object 👇😉
+Boring details? Here's myself as an object 👇😉
 
 ```javascript
 const me = {
@@ -37,4 +39,3 @@ const me = {
     email: "nishanbudhathoki2266@gmail.com",
   },
 };
-```
