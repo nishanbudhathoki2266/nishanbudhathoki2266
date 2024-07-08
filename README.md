@@ -23,11 +23,11 @@ Welcome to my corner of the coding universe! Here, you'll find a collection of m
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/nissan.xetrii/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishanbudhathoki2266@gmail.com)
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackkspydo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackkspydo&layout=compact&theme=radical)
-![Nishan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackkspydo&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=blackkspydo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Profile Views](https://komarev.com/ghpvc/?username=blackkspydo&color=blueviolet)
-[![Nishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackkspydo&theme=radical)](https://wakatime.com/@blackkspydo)
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanbudhathoki2266&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbudhathoki2266&layout=compact&theme=radical)
+![Nishan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishanbudhathoki2266&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishanbudhathoki2266&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=nishanbudhathoki2266&color=blueviolet)
+[![Nishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nishanbudhathoki2266&theme=radical)](https://wakatime.com/@nishanbudhathoki2266)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nishanbudhathoki2266/nishanbudhathoki2266/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
