@@ -25,3 +25,5 @@ Welcome to my corner of the coding universe! Here, you'll find a collection of m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanbudhathoki2266&layout=compact&theme=radical)
 ![Nishan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishanbudhathoki2266&theme=radical)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
