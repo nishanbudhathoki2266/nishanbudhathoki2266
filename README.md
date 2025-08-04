@@ -1,6 +1,6 @@
 # Hi, I'm Nishan Budhathoki 👋
 
-Passionate MERN Developer | IoT Geek
+Front-end Heavy Software Engineer
 
 Welcome to my corner of the coding universe! Here, you'll find a collection of my projects and contributions. Feel free to explore and connect with me on my coding journey.
 
@@ -9,7 +9,6 @@ Welcome to my corner of the coding universe! Here, you'll find a collection of m
 - 💻 Expertise in JavaScript, Next.js, and the MERN stack
 - 📦 Experience with SQL and NoSQL databases
 - 🎨 Efficiency in crafting beautiful designs using Bootstrap, Tailwind CSS, and SASS
-- 🌐 Proficiency in building IoT projects with Raspberry Pi
 - 🤖 Version controlling with Git
 
 ## 🚀 Currently building
